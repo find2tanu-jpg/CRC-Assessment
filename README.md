@@ -24,7 +24,7 @@ Two fully working FastAPI applications built with **SQLite** and **SQLModel**.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ujjwalbhar/CRC-Assessment-2.git
+git clone https://github.com/find2tanu-jpg/CRC-Assessment.git
 cd CRC-Assessment-2
 
 # 2. Create and activate a virtual environment
